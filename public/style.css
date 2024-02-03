@@ -1,0 +1,95 @@
+body {
+  background-color: #295020;
+  color: #2e5924;
+}
+
+.contentBox {
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+.one {
+  text-indent: 11%;
+}
+
+.two {
+  text-indent: 29%;
+}
+
+.three {
+  text-indent: 82%;
+}
+
+.four {
+  text-indent: 14%;
+}
+
+.five {
+  text-indent: 38%;
+}
+
+.six {
+  text-indent: 52%;
+}
+
+.seven {
+  text-indent: 69%;
+}
+
+.eight {
+  text-indent: 90%;
+}
+
+.nine {
+  text-indent: 23%;
+}
+
+.ten {
+  text-indent: 66%;
+}
+
+.eleven {
+  text-indent: 27%;
+}
+
+.twelve {
+  text-indent: 9%;
+}
+
+.thirteen {
+  text-indent: 6%;
+  transition: all 8s ease-in;
+}
+
+.thirteen:hover {
+  transform: translate(44%) scale(200%);
+  color: #3b752e;
+}
+
+.fourteen {
+  text-indent: 49%;
+}
+
+.fifteen {
+  text-indent: 77%;
+}
+
+.sixteen {
+  text-indent: 74%;
+}
+
+.seventeen {
+  text-indent: 66%;
+}
+
+.eighteen {
+  text-indent: 11%;
+}
+
+.nineteen {
+  text-indent: 64%;
+}
+
+.twenty {
+  text-indent: 9%;
+}
